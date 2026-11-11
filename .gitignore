@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# runtime state / logs / backups (private trading data)
+elite_bot.log
+elite_bot.log.*
+bot_state_v83.json
+elite_trades_v83.csv
+wallet_audit_v83.csv
+trade_backups/
+trades_opened.xlsx
+
+# backtest data
+data/

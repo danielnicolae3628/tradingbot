@@ -1,4 +1,4 @@
-# Elite Crypto Trading Bot — v8.4 "Volume"
+# Crypto Trading Bot — v8.4 "Volume"
 
 A single-file, self-hosted spot-trading bot for KuCoin. It scans a hybrid
 universe of coins, scores entries with a weighted confidence model, manages

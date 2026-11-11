@@ -119,4 +119,4 @@ explicitly labeled **aggressive and unvalidated** by its own author in the
 code's changelog. Past behavior (including anything shown in the screenshots
 above) is not a guarantee of future performance. Run it at your own risk,
 start with capital you can afford to lose, and monitor it closely —
-especially after any change to the strategy constants. (AI-modified :)) )
+especially after any change to the strategy constants.
